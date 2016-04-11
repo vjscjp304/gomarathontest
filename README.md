@@ -72,7 +72,7 @@ config.HTTPClient = &http.Client{
 }
 ```
 
-### Listing the applications
+### Listing   the   applications
 
 ```Go
 applications, err := client.Applications()
